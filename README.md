@@ -1,2 +1,2 @@
 # 🔰 RYANX BOT 2021 🔰
-Simples WhatsApp Bot
+*Simples bot de whatsapp*
